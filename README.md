@@ -1,12 +1,12 @@
 # Airbnb-Bookings-Analysis-Capstone-Project.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### Description: 
 
 This is an EDA capstone project on Airbnb bookings data, for [Alma Better](https://www.almabetter.com/) full stack data science course.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### Problem statement:
 
@@ -16,7 +16,7 @@ Our main aim here is to perform exploratory data analysis on this airbnb booking
 
 ![pic16](https://user-images.githubusercontent.com/85065799/200626854-12add7b0-9584-457a-b7d0-0b386c51e60c.jpg)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### Defining a hypothetical situation:
 
@@ -25,7 +25,7 @@ Now, let me tell you about the hypothetical situation. Let us assume that my dad
 
 Now, my dad tells me to research about Airbnb and get to know facts that could help make his investment as profitable as it can get. Me being a data scientist I take the data approach and embark on this journey of getting insights through EDA and making my dad PROUD!!
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### Questions to answer:
 * Which hosts are the busiest and why.
@@ -34,7 +34,7 @@ Now, my dad tells me to research about Airbnb and get to know facts that could h
 * What is the average preferred price by the customer for each neighbourhood group and for each room type.
 * What is the percentage of the total number of nights spent for each neighbourhood group.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### Conclusions: 
 
@@ -57,7 +57,7 @@ After a lot of analysis and also many visualisations we have got the answers to 
    * It is better to avoid buying in the neighbourhoods with highest number of listings, because the market there is already saturated with good offers.
    * Try pricing the property according to the averages calculated.
     
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 <b> For further information you can check the google colab file added in the repository. 
 
