@@ -59,6 +59,10 @@ After a lot of analysis and also many visualisations we have got the answers to 
     
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
+<b>Note: I've used tableau to make the analysis more interactive and produce better visualizations. This is the link to the [Tableau Dashboard](https://public.tableau.com/app/profile/syed.adnan.s/viz/Airbnbbookingsanalysiscapstoneproject_/Airbnbanalysis_). </b>
+
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+
 <b> For further information you can check the google colab file added in the repository. 
 
 If you find any mistakes or have any suggestions for me, please reach out to me, all the criticism is heartly welcomed.
